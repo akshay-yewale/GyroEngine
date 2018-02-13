@@ -1,0 +1,9 @@
+//=======RULES=======\\
+Escape : Quit the program
+UP : Move camera ahead
+Down : Move Camera Behind
+Left :Move Camera Left
+Right: Move Camera Right
+
+WASD : control Gun
+=====================
